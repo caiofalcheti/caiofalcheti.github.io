@@ -13,8 +13,8 @@ body{
     height: 100vh;
 }
 .about-left{
-    background-color: #21D4FD;
-    background-image: linear-gradient(19deg, #21D4FD 0%, #B721FF 100%);
+    background-color: #FFFFFF;
+    background-image: linear-gradient(19deg, #FFFFFF 0%, #B721FF 100%);
     display: flex;
     flex-direction: column;
     align-items: center;
