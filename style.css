@@ -13,7 +13,7 @@ body{
     height: 100vh;
 }
 .about-left{
-    background-color: #FE0001;
+    background-color: #FE0000;
     background-image: linear-gradient(19deg, #FE0000 0%, #FFFFF 100%);
     display: flex;
     flex-direction: column;
